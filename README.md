@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Francine</h1>
+<h1 align="center">Hi, my name is Francine 😉</h1>
 <h3 align="center">I'm a Technician in System Development, and you can see what I'm working on here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francinebergamin&label=Profile%20views&color=0e75b6&style=flat" alt="francinebergamin" /> </p>
