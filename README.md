@@ -1,10 +1,6 @@
 ## 🚩 Heyy! I'm Francine, and this is my GitHub profile ;)
 
-<div align="left">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francinebergamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francinebergamin&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
+
 <p align="left">
 		<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="50" height="50"/>
