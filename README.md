@@ -34,7 +34,7 @@
 
 📌 I’m currently learning **Laravel, Bootstrap, Python, PHP, CSS3**
 
-📌 Some of projects unrelated with programming, but actually related with GFX/VFX is acessable in my Behance portfolio
+📌 Some of projects unrelated with programming, but actually related with GFX/VFX are acessable in my Behance portfolio
 
 <div align="left"> 
   <hr><a href="https://www.linkedin.com/in/francinebergamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
