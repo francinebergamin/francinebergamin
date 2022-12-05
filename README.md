@@ -1,4 +1,4 @@
-## 🚩 Heyy! I'm Francine, and this is my GitHub profile ;)
+## 🔔 Heyy! I'm Francine, and this is my GitHub profile ;)
 <div align="left">
   <a href="https://github.com/francinebergamin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francinebergamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
