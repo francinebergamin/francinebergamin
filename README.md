@@ -30,9 +30,8 @@
 	
 ### I'm a Technician in System Development, and you can see what I'm working on here
 	
-📌 I’m currently working on [my Capstone course](https://github.com/francinebergamin/tcc-site-etecjb)
 
-📌 I’m currently learning **Laravel, Bootstrap, Python, PHP, CSS3**
+📌 I’m currently learning **Wordpress, JS and React**
 
 📌 Some of projects unrelated with programming, but actually related with GFX/VFX are acessable in my Behance portfolio
 
